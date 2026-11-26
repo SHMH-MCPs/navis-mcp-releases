@@ -61,7 +61,7 @@ again at the gateway — and learning can be switched off. Reports stay on your 
 
 ## Questions
 
-shady.hefilla@hotmail.com · [Revit MCP](https://github.com/SHMH-MCPs/revit-mcp-releases) works the same way for Revit 2024–2027.
+aecomcps@hotmail.com · [Revit MCP](https://github.com/SHMH-MCPs/revit-mcp-releases) works the same way for Revit 2024–2027.
 
 ---
 
